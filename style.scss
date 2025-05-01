@@ -1,0 +1,17 @@
+$primary-font: "Raleway", sans-serif;
+$secondary-font: "Roboto", sans-serif;
+$primary-color: #FFCC00;
+$secondary-color: #333333;
+$third-color: #666666;
+
+body {
+  max-width: 1170px;
+  margin: 122px auto;
+  padding: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
